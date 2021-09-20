@@ -3,7 +3,13 @@
 
 #include <stdio.h>
 #include <Windows.h>
-#include <winnt.h>
+
+// Defines
+
+#define SUCCESS 1
+#define FAILURE 0
+
+#define CHECK_RETURN(x) ((x) == 0)
 
 // 
 // IMAGE_DOS_HEADER:

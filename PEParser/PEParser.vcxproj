@@ -142,6 +142,7 @@
     <ClCompile Include="HeaderParser.c" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="..\..\..\..\Desktop\sample.exe" />
     <None Include="PeHeader.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

@@ -23,5 +23,8 @@
     <None Include="PeHeader.h">
       <Filter>Header files</Filter>
     </None>
+    <None Include="..\..\..\..\Desktop\sample.exe">
+      <Filter>Resource file</Filter>
+    </None>
   </ItemGroup>
 </Project>
